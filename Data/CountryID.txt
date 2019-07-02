@@ -1,0 +1,231 @@
+1;Afghanistan;1
+2;Albania;2
+3;Algeria;3
+4;American Samoa;4
+5;Andorra;5
+6;Angola;6
+7;Anguilla;7
+8;Antigua and Barbuda;8
+9;Argentina;9
+10;Armenia;10
+11;Aruba;11
+12;Australia;12
+13;Austria;13
+14;Azerbaijan;14
+15;Bahamas;15
+16;Bahrain;16
+17;Bangladesh;17
+18;Barbados;18
+19;Belarus;19
+20;Belgium;20
+21;Belize;21
+22;Benin;22
+23;Bermuda;23
+24;Bhutan;24
+25;Bolivia;25
+26;Bosnia-Herzegovina;26
+27;Botswana;27
+28;Brazil;28
+29;British Virgin Islands;29
+30;Brunei Darussalam;30
+31;Bulgaria;31
+32;Burkina Faso;32
+33;Burundi;33
+34;Cambodia;34
+35;Cameroon;35
+36;Canada;36
+37;Cape Verde;37
+38;Cayman Islands;38
+39;Central African Republic;39
+40;Chad;40
+41;Chile;41
+42;China;42
+43;Colombia;43
+44;Comoros;44
+45;Congo, Democratic Republic;45
+46;Congo;46
+47;Cook Islands;47
+48;Costa Rica;48
+49;Ivory Coast;49
+50;Croatia;50
+51;Cuba;51
+52;Cyprus;52
+53;Czech Republic;53
+54;Denmark;54
+55;Djibouti;55
+56;Commonwealth of Dominica;56
+57;Dominican Republic;57
+58;East Timor;58
+59;Ecuador;59
+60;Egypt;60
+61;El Salvador;61
+62;Equatorial Guinea;62
+63;Eritrea;63
+64;Estonia;64
+65;Ethiopia;65
+66;Faeroe Islands;66
+67;Falkland Islands;67
+68;Fiji;68
+69;Finland;69
+70;France;70
+71;French Guiana;71
+72;French Polynesia;72
+73;Gabon;73
+74;Gambia;74
+75;Georgia;75
+76;Germany;76
+77;Ghana;77
+78;Gibraltar;78
+79;Greece;79
+80;Greenland;80
+81;Grenada;81
+82;Guadeloupe;82
+83;Guam;83
+84;Guatemala;84
+85;Guernsey;85
+86;Guinea;86
+87;Guinea-Bissau;87
+88;Guyana;88
+89;Haiti;89
+90;Honduras;90
+91;Hong Kong;91
+92;Hungary;92
+93;Iceland;93
+94;India;94
+95;Indonesia;95
+96;Iran;96
+97;Iraq;97
+98;Ireland;98
+99;Isle of Man;99
+100;Israel;100
+101;Italy;101
+102;Jamaica;102
+103;Japan;103
+104;Jersey;104
+105;Jordan;105
+106;Kazakhstan;106
+107;Kenya;107
+108;Kiribati;108
+109;Korea, Dem. People's Rep. of;109
+110;Korea;110
+111;Kuwait;111
+112;Kyrgyz Republic;112
+113;Lao People's Democratic Republic;113
+114;Latvia;114
+115;Lebanon;115
+116;Lesotho;116
+117;Liberia;117
+118;Libyan Arab Jamahiriya;118
+119;Liechtenstein;119
+120;Lithuania;120
+121;Luxembourg;121
+122;Macao;122
+123;Macedonia;123
+124;Madagascar;124
+125;Malawi;125
+126;Malaysia;126
+127;Maldives;127
+128;Mali;128
+129;Malta;129
+130;Marshall Islands;130
+131;Martinique;131
+132;Mauritania;132
+133;Mauritius;133
+134;Mayotte* qpp;134
+135;Mexico;135
+136;Federated State of Micronesia;136
+137;Republic of Moldova;137
+138;Monaco;138
+139;Mongolia;139
+140;Montserrat;140
+141;Morocco (includes Western Sahara);141
+142;Mozambique;142
+143;Myanmar;143
+144;Namibia;144
+145;Nauru;145
+146;Nepal;146
+147;Netherlands;147
+148;Netherland Antilles;148
+149;New Caledonia;149
+150;New Zealand;150
+151;Nicaragua;151
+152;Niger;152
+153;Nigeria;153
+154;Niue;154
+155;Norfolk Island;155
+156;Northern Mariana Islands;156
+157;Norway;157
+158;Occupied Palestinian Territory;158
+159;Oman;159
+160;Pakistan;160
+161;Palau;161
+162;Panama;162
+163;Papua New Guinea;163
+164;Paraguay;164
+165;Peru;165
+166;Philippines;166
+167;Pitcairn;167
+168;Poland;168
+169;Portugal;169
+170;Puerto Rico;170
+171;Qatar;171
+172;Reunion;172
+173;Romania;173
+174;Russia;174
+175;Rwanda;175
+176;Saint Kitts and Nevis;176
+177;Saint Helena* qpp;177
+178;Saint Lucia;178
+179;Saint Pierre and Miquelon* qpp;179
+180;Western Samoa;180
+181;San Marino;181
+182;Sao Tome and Principe;182
+183;Saudi Arabia;183
+184;Senegal;184
+185;Serbia and Montenegro;185
+186;Seychelles;186
+187;Sierra Leone;187
+188;Singapore;188
+189;Slovakia;189
+190;Slovenia;190
+191;Solomon Islands;191
+192;Somalia;192
+193;South Africa;193
+194;Spain;194
+195;Sri Lanka;195
+196;Saint Vincent;196
+197;Sudan;197
+198;Suriname;198
+199;Svalbard* qpp;199
+200;Swaziland;200
+201;Sweden;201
+202;Switzerland;202
+203;Syrian Arab Republic;203
+204;Taiwan;204
+205;Tajikistan;205
+206;United Rep. of Tanzania;206
+207;Thailand;207
+208;Togo;208
+209;Tokelau* qpp;209
+210;Tonga;210
+211;Trinidad and Tobago;211
+212;Tunisia;212
+213;Turkey;213
+214;Turkmenistan;214
+215;Turks and Caicos Islands;215
+216;Tuvalu;216
+217;Uganda;217
+218;Ukraine;218
+219;United Arab Emirates;219
+220;United Kingdom;220
+221;United States of America;221
+222;Uruguay;222
+223;Uzbekistan;223
+224;Vanuatu;224
+225;Venezuela;225
+226;Viet Nam;226
+227;Wallis and Futuna* qpp;227
+228;United States Virgin Islands;228
+229;Yemen;229
+230;Zambia;230
+231;Zimbabwe;231

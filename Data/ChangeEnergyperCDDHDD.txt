@@ -1,0 +1,5 @@
+EconomicStatus	BalancePoint	IncreaseperHDD	IncreaseperCDD
+High	0.7	0.0021	0.0010
+Uppermiddle	0.8	0.0010	0.00060
+Lowermiddle	0.9	0.00075	0.00035
+Low	0.95	0.000125	6.25E-05

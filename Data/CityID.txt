@@ -1,0 +1,539 @@
+1;Sofia;Bulgaria;42.7;23.33;9339
+2;Mandalay;Myanmar;21.97;96.08;20813
+3;Nay Pyi Taw;Myanmar;19.75;96.1;21581
+4;Rangoon;Myanmar;16.87;96.12;22248
+5;Minsk;Belarus;53.89;27.57;4399
+6;Phnom Penh;Cambodia;11.56;104.91;23698
+7;Algiers;Algeria;36.78;3.05;13028
+8;Oran;Algeria;35.74;-0.52;13581
+9;Douala;Cameroon;4.13;9.7;25722
+10;Yaounde;Cameroon;3.86;11.51;25748
+11;Calgary;Canada;51.03;-114.04;5296
+12;Edmonton;Canada;53.55;-113.5;4419
+13;Montreal;Canada;45.54;-73.65;7628
+14;Ottawa;Canada;45.37;-75.65;7943
+15;Toronto;Canada;43.72;-79.41;8731
+16;Vancouver;Canada;49.27;-122.96;6066
+17;Ndjamena;Chad;12.1;15.24;23540
+18;Santiago;Chile;8.1;-80.96;24784
+19;Valparaiso;Chile;-33.02;-71.55;31322
+20;Anshan;China;41.11;122.97;10182
+22;Anyang;China;36.1;114.33;12944
+23;Baoding;China;38.85;115.48;11661
+24;Baotou;China;40.65;109.8;10606
+25;Beijing;China;39.9;116.38;10903
+26;Bengbu;China;32.93;117.35;15490
+28;Changchun;China;43.88;125.31;8743
+30;Changsha;China;28.09;113;17608
+31;Changzhou;China;31.78;119.97;16087
+32;Chengdu;China;30.67;104.07;16469
+33;Chifeng;China;42.27;118.95;9554
+34;Chongqing;China;29.54;106.52;17086
+35;Dalian;China;39.03;121.59;11492
+36;Dandong;China;40.11;124.38;10940
+37;Daqing;China;46.58;125;7330
+38;Datong;China;40.06;113.28;10899
+39;Dongguan;China;23.03;113.71;20112
+40;Foshan;China;23.03;113.71;20112
+41;Fushun;China;41.85;123.9;9803
+42;Fuxin;China;42.01;121.65;9708
+43;Fuyang;China;30.05;119.94;16752
+44;Fuzhou;China;26.07;119.3;18725
+45;Guangzhou;China;23.09;113.29;20112
+47;Guiyang;China;26.57;106.7;18383
+48;Harbin;China;45.75;126.62;7733
+49;Handan;China;36.6;114.48;12944
+50;Hangzhou;China;30.25;120.16;16752
+51;Hefei;China;31.86;117.27;16046
+52;Hengyang;China;26.9;112.6;18248
+55;Huai'an;China;33.5;119.13;15093
+57;Huainan;China;32.61;116.98;15638
+58;Huzhou;China;30.86;120.1;16523
+60;Jiaozuo;China;35.24;113.22;14016
+62;Jilin;China;43.85;126.56;8744
+63;Jinan;China;36.65;116.96;13044
+65;Jinxi;China;41.11;122.05;10217
+67;Jixi;China;45.3;130.96;8058
+69;Kaohsiung;China;22.6;120.28;19172
+70;Kunming;China;25.05;102.7;19237
+72;Lanzhou;China;36.11;103.59;13410
+74;Lianyungang;China;41.26;119.16;10213
+75;Liaoyang;China;41.26;123.17;10182
+76;Linfen;China;36.08;111.51;13449
+77;Linyi;China;35.05;118.31;14111
+80;Liuzhou;China;24.31;109.38;19601
+81;Luoyang;China;34.67;112.36;14307
+82;Luzhou;China;28.88;105.43;17395
+84;Mudanjiang;China;44.58;129.59;8369
+85;Nanchang;China;28.67;115.88;17443
+86;Nanchong;China;28.68;115.88;17443
+87;Nanjing;China;32.04;118.76;15850
+88;Nanning;China;22.83;108.29;20425
+89;Nantong;China;32;120.83;15981
+92;Ningbo;China;29.86;121.55;16977
+93;Pingdingshan;China;33.73;113.3;15039
+94;Pingxiang;China;27.63;113.85;17916
+95;Qingdao;China;36.14;120.43;13294
+96;Qinhuangdao;China;39.93;119.6;10952
+98;Quanzhou;China;24.91;118.58;19325
+99;Shanghai;China;31.24;121.47;16241
+101;Shantou;China;23.36;116.7;20063
+102;Shaoxing;China;30;120.58;16752
+103;Shenyang;China;41.8;123.38;9802
+104;Shenzhen;China;22.55;114.1;20112
+105;Shijiazhuang;China;38.07;114.55;12121
+110;Taichung;China;24.14;120.67;19172
+111;Tainan;China;23.01;120.2;19172
+112;Taipei;China;25.03;121.5;19172
+113;Taiyuan;China;37.89;112.55;12200
+114;Tangshan;China;39.61;118.18;11109
+115;Tianjin;China;39.12;117.18;11436
+117;Tianshui;China;34.58;105.73;14484
+120;Weifang;China;36.71;119.1;13079
+121;Wenzhou;China;27.99;120.65;17658
+123;Wuhu;China;31.33;118.35;16266
+126;Xi'an;China;34.26;108.9;14572
+129;Xianyang;China;34.35;108.71;14572
+132;Xinxiang;China;35.3;113.86;13833
+136;Xuzhou;China;34.26;117.16;14602
+137;Yancheng;China;33.38;120.11;15257
+138;Yantai;China;37.45;121.44;12502
+140;Yichang;China;30.7;111.28;16561
+143;Yinchuan;China;38.46;106.26;11848
+144;Yingkou;China;40.66;122.23;10527
+147;Yuci;China;37.68;112.73;12200
+151;Zhangjiakou;China;40.81;114.88;10526
+152;Zhanjiang;China;21.2;110.4;21079
+154;Zhengzhou;China;34.75;113.64;14278
+155;Zhenjiang;China;32.2;119.41;15924
+156;Zhuhai;China;22.27;113.56;20112
+158;Zibo;China;36.78;118.05;13010
+161;Barranquilla;Colombia;10.98;-74.8;23888
+162;Bogotá;Colombia;4.63;-74.08;25550
+163;Bucaramanga;Colombia;7.11;-73.11;24992
+164;Cali;Colombia;3.45;-76.52;25744
+165;Cartagena;Colombia;10.41;-75.53;24077
+166;Medellín;Colombia;6.24;-75.59;25189
+167;Brazzaville;Congo;-4.28;15.28;26999
+168;Kananga;Democratic Republic of the Congo;-5.89;22.4;27305
+169;Kinshasa;Democratic Republic of the Congo;-4.32;15.29;26999
+170;Lubumbashi;Democratic Republic of the Congo;-11.68;27.54;28461
+171;Mbuji-Mayi;Democratic Republic of the Congo;-6.14;23.66;27358
+172;San José;Costa Rica;9.93;-84.07;24194
+173;Havana;Cuba;23.04;-82.41;20263
+174;Prague;Czech Republic;50.1;14.45;5717
+175;Cotonou;Benin;6.35;2.43;25206
+176;Copenhagen;Denmark;55.71;12.54;3805
+177;Santo Domingo;Dominican Republic;18.48;-69.89;21872
+178;Guayaquil;Ecuador;-2.2;-79.9;26579
+179;Quito;Ecuador;-0.22;-78.52;26213
+180;San Salvador;El Salvador;13.7;-89.2;23018
+181;Addis Ababa;Ethiopia;9.02;38.7;24556
+182;Huambo;Angola;-12.76;15.73;28619
+183;Luanda;Angola;-8.81;13.23;28035
+184;Helsinki;Finland;60.19;24.97;2748
+185;Bordeaux;France;44.84;-0.59;8215
+186;Lille;France;50.63;3.06;5261
+187;Lyon;France;45.74;4.85;7658
+188;Marseille;France;43.28;5.38;8880
+189;Nice-Cannes;France;43.55;7.01;8586
+190;Paris;France;48.88;2.43;6042
+191;Toulouse;France;43.59;1.43;8802
+192;Tbilisi;Georgia;41.72;44.78;9829
+193;Berlin;Germany;52.51;13.32;4775
+194;Hamburg;Germany;53.57;10.02;4440
+195;Cologne;Germany;50.94;6.93;5130
+196;Munich;Germany;48.14;11.54;6458
+197;Accra;Ghana;5.55;-0.2;25403
+198;Kumasi;Ghana;6.68;-1.62;25117
+199;Athens;Greece;37.94;23.65;11919
+200;Thessaloniki;Greece;40.62;22.79;10576
+201;Baku;Azerbaijan;40.32;49.81;10675
+202;Buenos Aires;Argentina;-34.62;-58.44;31556
+203;Córdoba;Argentina;-31.31;-64.17;31162
+204;Mendoza;Argentina;-32.89;-68.83;31345
+205;Rosario;Argentina;-32.93;-60.66;31326
+206;San Miguel de Tucumán;Argentina;-26.82;-65.21;30640
+207;Guatemala;Guatemala;14.61;-90.52;22781
+208;Conakry;Guinea;9.54;-13.67;24346
+209;Port-au-Prince;Haiti;18.52;-72.34;21861
+210;Tegucigalpa;Honduras;14.09;-87.2;22942
+211;Hong Kong; Hong Kong Special Administrative Region;22.27;114.17;20112
+212;Budapest;Hungary;47.51;19.09;6791
+213;Agra;India;27.18;78.02;18092
+214;Ahmadabad;India;23.03;72.56;20046
+215;Aligarh;India;27.88;78.08;17723
+216;Allahabad;India;25.45;81.85;19022
+217;Amritsar;India;31.63;74.87;16153
+218;Asansol;India;23.68;86.98;19884
+219;Aurangabad;India;19.78;75.29;21536
+220;Bangalore;India;12.97;77.58;23217
+222;Bhiwandi;India;19.29;73.06;21680
+223;Bhopal;India;23.22;77.41;20182
+224;Bhubaneswar;India;20.26;85.83;21345
+225;Chandigarh;India;30.73;76.78;16557
+226;Madras;India;13.06;80.24;23205
+227;Coimbatore;India;11.01;76.97;23849
+228;Delhi;India;28.66;77.21;17341
+229;Dhanbad;India;23.8;86.45;19884
+230;Durg-Bhilainagar;India;21.22;81.43;21047
+231;Faridabad;India;28.42;77.3;17341
+232;Ghaziabad;India;28.67;77.42;17341
+233;Guwahati;India;26.17;91.77;18674
+234;Gwalior;India;26.14;78.1;18573
+235;Hubli-Dharwad;India;15.36;75.08;22622
+236;Hyderabad;India;17.39;78.48;22148
+237;Indore;India;22.42;75.54;20459
+238;Jabalpur;India;23.15;79.97;20184
+239;Jaipur;India;26.9;75.8;18184
+240;Jalandhar;India;31.32;75.57;16256
+242;Jamshedpur;India;22.8;86.18;20402
+243;Jodhpur;India;26.28;73.02;18571
+244;Kanpur;India;26.45;80.31;18486
+245;Kochi;India;9.97;76.27;24189
+246;Calcutta;India;22.54;88.33;20359
+247;Kota;India;25.18;75.83;19131
+248;Calicut;India;26.28;75.77;18683
+249;Lucknow;India;26.84;80.91;18236
+250;Ludhiana;India;30.91;75.85;16468
+251;Madurai;India;9.91;78.12;24270
+252;Meerut;India;28.99;77.7;17291
+253;Moradabad;India;28.83;78.78;17377
+254;Bombay;India;19.07;72.82;21680
+255;Mysore;India;12.3;76.65;23418
+256;Nagpur;India;21.15;79.08;21072
+257;Nashik;India;20.02;73.5;21494
+258;Patna;India;25.61;85.13;18913
+259;Poona;India;18.53;73.85;21845
+260;Raipur;India;21.23;81.63;21047
+261;Rajkot;India;22.3;70.78;20667
+262;Ranchi;India;23.35;85.33;20147
+263;Salem;India;44.95;-122.99;8209
+264;Solapur;India;17.68;75.92;22128
+265;Srinagar;India;34.08;74.8;14801
+266;Surat;India;21.16;72.83;21018
+267;Thiruvananthapuram;India;8.48;76.95;24672
+268;Tiruchirappalli;India;10.81;78.69;23933
+269;Vadodara;India;22.3;73.2;20621
+270;Varanasi;India;25.28;82.95;19063
+271;Vijayawada;India;16.51;80.61;22366
+272;Visakhapatnam;India;17.74;83.33;22109
+273;Adelaide;Australia;-34.81;138.52;31571
+274;Brisbane;Australia;-27.45;153.02;30686
+275;Melbourne;Australia;-37.85;145.07;31756
+276;Perth;Australia;-31.95;115.85;31232
+277;Sydney;Australia;-33.88;151.02;31440
+278;Bandar Lampung;Indonesia;-5.45;105.26;27198
+279;Bandung;Indonesia;-6.91;107.6;27532
+281;Jakarta;Indonesia;-6.16;106.8;27350
+282;Malang;Indonesia;-7.98;112.62;27832
+283;Medan;Indonesia;3.58;98.67;25767
+284;Padang;Indonesia;-0.95;100.35;26369
+285;Palembang;Indonesia;-2.99;104.75;26721
+286;Pekan Baru;Indonesia;0.53;101.45;26143
+287;Semarang;Indonesia;-6.97;110.42;27562
+288;Surabaya;Indonesia;-7.39;112.68;27643
+289;Ujung Pandang;Indonesia;-5.13;119.41;27142
+290;Ahvaz;Iran (Islamic Republic of);31.31;48.68;16178
+291;Esfahan;Iran (Islamic Republic of);32.65;51.67;15530
+292;Karaj;Iran (Islamic Republic of);35.81;50.96;13445
+293;Kermanshah;Iran (Islamic Republic of);34.3;47.05;14589
+294;Mashhad;Iran (Islamic Republic of);36.28;59.59;13205
+295;Qom;Iran (Islamic Republic of);34.65;50.88;14366
+296;Shiraz;Iran (Islamic Republic of);29.6;52.53;16947
+297;Tabriz;Iran (Islamic Republic of);38.08;46.28;12066
+298;Tehran;Iran (Islamic Republic of);35.77;51.44;13445
+299;Basra;Iraq;30.5;47.76;16637
+300;Mosul;Iraq;36.33;43.13;13232
+301;Baghdad;Iraq;33.33;44.39;15176
+302;Erbil;Iraq;36.16;44.01;13383
+303;Dublin;Ireland;53.34;-6.25;4526
+304;Hefa;Israel;32.76;35;15464
+305;Tel Aviv-Yafo;Israel;32.04;34.76;15464
+306;Milano;Italy;45.47;9.18;7818
+307;Napoli;Italy;40.83;14.25;10283
+308;Palermo;Italy;38.12;13.35;12085
+309;Rome;Italy;41.87;12.51;9696
+310;Torino;Italy;45.07;7.66;8127
+311;Abidjan;Côte d'Ivoire;5.32;-4.02;25450
+312;Fukuoka-Kitakyushu;Japan;33.57;130.4;14752
+313;Hiroshima;Japan;34.37;132.44;14351
+314;Kyoto;Japan;35;135.75;12891
+315;Nagoya;Japan;35.15;136.92;12891
+316;Osaka-Kobe;Japan;34.63;135.51;12891
+317;Sapporo;Japan;43.05;141.34;8762
+318;Sendai;Japan;38.25;140.89;11901
+319;Tokyo;Japan;35.68;139.8;12891
+320;Almaty;Kazakhstan;43.25;76.91;8965
+321;Kabul;Afghanistan;34.53;69.13;14510
+322;Wien;Austria;48.2;16.32;6484
+323;Amman;Jordan;31.94;35.93;15933
+324;Mombasa;Kenya;-4.05;39.65;27022
+325;Nairobi;Kenya;-1.26;36.8;26414
+326;Hamhung;Democratic People's Republic of Korea;39.91;127.55;11067
+327;N'ampo;Democratic People's Republic of Korea;38.73;125.4;11783
+328;P'yongyang;Democratic People's Republic of Korea;39.02;125.75;11520
+329;Bucheon;Republic of Korea;37.5;126.78;12075
+330;Busan;Republic of Korea;35.1;129.03;13930
+331;Daegu;Republic of Korea;35.86;128.6;13550
+332;Daejon;Republic of Korea;36.35;127.38;13243
+333;Goyang;Republic of Korea;37.65;126.8;12075
+334;Gwangju;Republic of Korea;35.16;126.91;14023
+335;Incheon;Republic of Korea;37.48;126.63;12075
+336;Seongnam;Republic of Korea;37.43;127.15;12075
+337;Seoul;Republic of Korea;37.54;126.93;12075
+338;Suweon;Republic of Korea;37.26;127.01;12075
+339;Ulsan;Republic of Korea;35.55;129.31;13677
+340;Kuwait;Kuwait;29.38;47.97;17173
+341;Bishkek;Kyrgyzstan;42.87;74.77;9216
+342;Beirut;Lebanon;33.88;35.49;14764
+343;Monrovia;Liberia;6.3;-10.79;25228
+344;Banghazi;Libyan Arab Jamahiriya;32.12;20.06;15885
+345;Tripoli;Libyan Arab Jamahiriya;34.34;36;14535
+346;Antananarivo;Madagascar;-18.9;47.52;29524
+347;Johore Bharu;Malaysia;1.5;103.76;25991
+348;Klang;Malaysia;3.03;101.45;25807
+349;Kuala Lumpur;Malaysia;3.14;101.7;25807
+350;Bamako;Mali;12.65;-7.98;23340
+351;Aguascalientes;Mexico;21.88;-102.29;20706
+352;Chihuahua;Mexico;28.63;-106.07;17431
+353;Mexico City;Mexico;19.42;-99.12;21406
+354;Ciudad Juárez;Mexico;31.73;-106.48;15929
+355;Culiacán;Mexico;24.8;-107.38;19331
+356;Guadalajara;Mexico;20.67;-103.34;21233
+357;León de los Aldamas;Mexico;21.11;-101.68;21095
+358;Mérida;Mexico;8.6;-71.14;24649
+359;Mexicali;Mexico;32.65;-115.46;15459
+360;Monterrey;Mexico;25.67;-100.31;18769
+361;Puebla;Mexico;19.04;-98.19;21648
+362;Querétaro;Mexico;20.58;-100.38;21269
+363;Saltillo;Mexico;25.41;-100.99;18952
+364;San Luis Potosí;Mexico;22.15;-100.97;20707
+365;Tijuana;Mexico;32.52;-117.03;14561
+366;Toluca;Mexico;19.28;-99.66;21406
+367;Torreón;Mexico;25.55;-103.76;18803
+368;Ulaanbaatar;Mongolia;47.92;106.91;6706
+369;Chittagong;Bangladesh;22.32;91.82;20544
+370;Dhaka;Bangladesh;23.7;90.4;19776
+371;Khulna;Bangladesh;22.84;89.55;20386
+372;Rajshahi;Bangladesh;24.35;88.63;19594
+373;Casablanca;Morocco;33.6;-7.63;15029
+374;Fès;Morocco;34.04;-4.99;14826
+375;Marrakech;Morocco;31.63;-8.01;16132
+376;Rabat;Morocco;34.01;-6.83;14796
+377;Maputo;Mozambique;-25.96;32.57;30555
+378;Yerevan;Armenia;40.2;44.53;10871
+379;Kathmandu;Nepal;27.71;85.31;17858
+380;Amsterdam;Netherlands;52.37;4.89;4714
+381;Rotterdam;Netherlands;51.92;4.48;4714
+382;Auckland;New Zealand;-36.9;174.76;31707
+383;Managua;Nicaragua;12.15;-86.27;23488
+384;Antwerpen;Belgium;51.2;4.42;5261
+385;Bruxelles-Brussel;Belgium;50.83;4.36;5261
+386;Niamey;Niger;13.51;2.12;23110
+387;Abuja;Nigeria;9.05;7.25;24533
+388;Benin City;Nigeria;6.33;5.62;25207
+389;Ibadan;Nigeria;7.37;3.89;24934
+390;Ilorin;Nigeria;8.49;4.54;24696
+391;Kaduna;Nigeria;10.51;7.44;24019
+392;Kano;Nigeria;11.99;8.49;23551
+393;Lagos;Nigeria;6.45;3.3;25125
+394;Maiduguri;Nigeria;11.85;13.16;23623
+395;Ogbomosho;Nigeria;8.13;4.25;24788
+396;Port Harcourt;Nigeria;4.78;7;25619
+397;Zaria;Nigeria;11.06;7.7;23846
+398;Oslo;Norway;59.93;10.71;2844
+399;Faisalabad;Pakistan;31.4;73.08;16221
+400;Gujranwala;Pakistan;32.15;74.18;15863
+401;Hyderabad;Pakistan;25.38;68.36;19038
+402;Islamabad;Pakistan;33.71;73.06;15060
+403;Karachi;Pakistan;24.89;67.02;19252
+404;Lahore;Pakistan;31.54;74.34;16077
+405;Multan;Pakistan;30.2;71.41;16835
+406;Peshawar;Pakistan;34;71.54;14831
+407;Quetta;Pakistan;30.2;67.01;16775
+408;Rawalpindi;Pakistan;33.6;73.04;15060
+409;Panama;Panama;9;-79.51;24541
+410;Asuncion;Paraguay;-25.3;-57.62;30469
+411;Arequipa;Peru;-16.39;-71.52;29119
+412;Lima;Peru;-12.08;-77.04;28510
+413;Cebu;Philippines;10.42;123.79;24137
+414;Davao;Philippines;7.08;125.61;25014
+415;Manila;Philippines;14.61;120.96;22733
+416;Zamboanga;Philippines;6.9;122.06;25077
+417;Kraków;Poland;50.06;19.94;5779
+418;Lódz;Poland;51.77;19.47;5075
+419;Warszawa;Poland;52.24;21.01;4855
+420;Lisboa;Portugal;38.72;-9.12;11563
+421;Porto;Portugal;41.16;-8.58;9975
+422;San Juan;Puerto Rico;18.8;-71.22;21808
+423;Bucharest;Romania;44.43;26.12;8446
+424;Chelyabinsk;Russian Federation;55.14;61.39;4010
+425;Kazan;Russian Federation;55.73;49.14;3825
+426;Krasnoyarsk;Russian Federation;56.01;92.83;3701
+427;Moscow;Russian Federation;55.74;37.7;3796
+428;Novgorod;Russian Federation;58.54;31.27;3225
+429;Novosibirsk;Russian Federation;55.03;82.94;4051
+430;Omsk;Russian Federation;55.06;73.25;4050
+431;Perm;Russian Federation;58;56.23;3335
+432;Rostov-na-Donu;Russian Federation;47.23;39.68;7063
+433;Samara;Russian Federation;53.23;50.16;4530
+434;Saint Petersburg;Russian Federation;59.91;30.24;2930
+435;Saratov;Russian Federation;51.49;45.95;5155
+436;Ufa;Russian Federation;54.82;56.09;4106
+437;Volgograd;Russian Federation;48.7;44.48;6245
+438;Voronezh;Russian Federation;51.71;39.26;5118
+439;Yekaterinburg;Russian Federation;56.83;60.58;3569
+440;Kigali;Rwanda;-1.95;30.05;26575
+441;La Paz;Bolivia;24.15;-110.3;19684
+442;Santa Cruz;Bolivia;-17.78;-63.19;29366
+443;Ad-Dammam;Saudi Arabia;26.33;50.08;18402
+444;Medina;Saudi Arabia;24.42;39.69;19489
+445;Riyadh;Saudi Arabia;24.65;46.77;19225
+446;Jiddah;Saudi Arabia;21.54;39.17;20925
+447;Mecca;Saudi Arabia;21.42;39.81;20925
+448;Dakar;Senegal;14.68;-17.45;22774
+449;Belgrade;Serbia;44.79;20.41;8223
+450;Freetown;Sierra Leone;8.48;-13.23;24706
+451;Singapore;Singapore;1.26;103.83;25991
+452;Hanoi;Viet Nam;21.03;105.82;21109
+453;Hai Phòng;Viet Nam;20.86;106.67;21214
+454;Ho Chi Minh City;Viet Nam;10.75;106.66;23920
+455;Mogadishu;Somalia;2.04;45.34;25941
+456;Cape Town;South Africa;-33.97;18.48;31457
+457;Durban;South Africa;-29.83;30.94;30990
+458;East Rand;South Africa;-26.17;28.22;30515
+459;Johannesburg;South Africa;-26.17;28;30515
+460;Port Elizabeth;South Africa;-33.88;25.48;31452
+461;Pretoria;South Africa;-25.73;28.21;30515
+462;Vereeniging;South Africa;-26.67;27.93;30515
+463;Harare;Zimbabwe;-17.82;31.02;29378
+464;Barcelona;Spain;10.13;-64.69;24167
+465;Madrid;Spain;40.44;-3.69;10538
+466;Valencia;Spain;39.47;-0.36;10943
+467;Khartoum;Sudan;15.55;32.52;22525
+468;Stockholm;Sweden;59.33;17.99;3015
+469;Zürich;Switzerland;47.4;8.53;6879
+470;Baixada Santista;Brazil;-23.95;-46.36;30134
+471;Belém;Brazil;-1.43;-48.49;26435
+472;Belo Horizonte;Brazil;-19.85;-43.9;29586
+473;Brasilia;Brazil;-15.79;-47.89;28997
+474;Campinas;Brazil;-22.9;-47.05;30134
+475;Campo Grande;Brazil;-20.45;-54.61;29710
+476;Cuiabá;Brazil;-15.61;-56.09;28978
+477;Curitiba;Brazil;-25.43;-49.28;30479
+478;Florianópolis;Brazil;-27.57;-48.61;30755
+479;Fortaleza;Brazil;-3.78;-38.58;26900
+480;Goiânia;Brazil;-16.72;-49.25;29173
+481;Sao Luis;Brazil;-2.51;-44.3;26647
+482;Grande Vitória;Brazil;42.85;-2.67;9273
+483;João Pessoa;Brazil;-7.12;-34.86;27584
+484;Maceió;Brazil;-9.67;-35.74;28146
+485;Manaus;Brazil;-3.12;-60.01;26735
+486;Natal;Brazil;-5.8;-35.21;27260
+487;Norte/Nordeste Catarinense;Brazil;-26.32;-48.84;30591
+488;Pôrto Alegre;Brazil;-30.04;-51.2;31006
+489;Recife;Brazil;-8.08;-34.91;27799
+490;Rio de Janeiro;Brazil;-22.72;-43.45;30092
+491;Salvador;Brazil;-12.99;-38.48;28587
+492;São Paulo;Brazil;-23.58;-46.62;30134
+493;Teresina;Brazil;-5.1;-42.8;27143
+494;Damascus;Syrian Arab Republic;33.49;36.29;15103
+495;Halab;Syrian Arab Republic;36.21;37.15;13359
+496;Hims;Syrian Arab Republic;34.73;36.71;14238
+497;Bangkok;Thailand;13.75;100.51;22869
+498;Lomé;Togo;6.1;1.2;25265
+499;Dubai;United Arab Emirates;25.27;55.32;19013
+500;Adana;Turkey;37;35.32;12847
+501;Ankara;Turkey;39.92;32.85;10894
+502;Antalya;Turkey;36.89;30.7;12879
+503;Bursa;Turkey;40.19;29.07;10842
+504;Gaziantep;Turkey;37.04;37.3;12759
+505;Istanbul;Turkey;41.06;29;10290
+506;Izmir;Turkey;38.43;27.14;11821
+507;Konya;Turkey;37.87;32.48;12195
+508;Kampala;Uganda;0.32;32.57;26172
+509;Dnipropetrovs'k;Ukraine;48.42;35.13;6349
+510;Donets'k;Ukraine;48.04;37.73;6590
+511;Kharkiv;Ukraine;49.98;36.2;5780
+512;Kiev;Ukraine;50.44;30.5;5627
+513;Odesa;Ukraine;46.46;30.73;7411
+514;Zaporizhzhya;Ukraine;47.85;35.15;6727
+515;Alexandria;Egypt;31.2;29.9;16309
+516;Cairo;Egypt;30.07;31.25;16815
+517;Birmingham;United Kingdom;52.49;-1.86;4784
+518;Glasgow;United Kingdom;55.86;-4.26;3729
+519;Liverpool;United Kingdom;53.42;-2.97;4414
+520;London;United Kingdom;51.48;-0.17;5012
+521;Manchester;United Kingdom;53.47;-2.26;4414
+522;Newcastle upon Tyne;United Kingdom;54.96;-1.6;3975
+523;West Yorkshire;United Kingdom;53.79;-1.54;4415
+524;Dar es Salaam;United Republic of Tanzania;-6.81;39.25;27481
+525;Atlanta;United States of America;33.79;-84.34;14707
+526;Austin;United States of America;30.27;-97.73;16632
+527;Baltimore;United States of America;39.32;-76.61;11216
+528;Boston;United States of America;42.37;-71.1;9046
+529;Bridgeport-Stamford;United States of America;41.18;-73.19;9540
+530;Buffalo;United States of America;42.89;-78.84;8731
+531;Charlotte;United States of America;35.2;-80.83;13423
+532;Chicago;United States of America;41.82;-87.64;8792
+533;Cincinnati;United States of America;39.14;-84.47;10922
+534;Cleveland;United States of America;41.39;-81.72;9607
+535;Columbus;United States of America;40.04;-82.99;10832
+536;Dallas-Fort Worth;United States of America;32.76;-96.66;15332
+537;Dayton;United States of America;39.75;-84.19;10922
+538;Denver-Aurora;United States of America;39.57;-105.07;10906
+539;Detroit;United States of America;42.39;-83.07;9302
+540;El Paso;United States of America;31.77;-106.45;15929
+541;Hartford;United States of America;41.76;-72.7;9540
+542;Honolulu;United States of America;21.32;-157.86;20916
+543;Houston;United States of America;29.77;-95.4;16733
+544;Indianapolis;United States of America;39.81;-86.13;10880
+545;Jacksonville;United States of America;30.33;-81.65;16671
+546;Kansas City;United States of America;38.99;-94.62;11343
+547;Las Vegas;United States of America;36.17;-115.13;13267
+548;Los Angeles-Long Beach-Santa Ana;United States of America;34;-118.25;14561
+549;Louisville;United States of America;38.25;-85.76;11708
+550;Memphis;United States of America;35.11;-90;13811
+551;Miami;United States of America;25.83;-80.27;17477
+552;Milwaukee;United States of America;43.06;-87.99;8792
+553;Minneapolis-St. Paul;United States of America;44.92;-93.3;8059
+554;Nashville-Davidson;United States of America;36.14;-86.81;13218
+555;New Orleans;United States of America;29.95;-90.09;16568
+556;New York-Newark;United States of America;40.7;-73.9;9540
+557;Oklahoma City;United States of America;35.48;-97.53;13576
+558;Orlando;United States of America;28.54;-81.37;17191
+559;Philadelphia;United States of America;39.92;-75.21;9540
+560;Phoenix-Mesa;United States of America;33.5;-112.11;14995
+561;Pittsburgh;United States of America;40.49;-79.99;10501
+562;Portland;United States of America;45.44;-122.64;7627
+563;Providence;United States of America;41.81;-71.42;9046
+564;Richmond;United States of America;37.56;-77.47;12287
+565;Riverside-San Bernardino;United States of America;34.12;-117.29;14561
+566;Rochester;United States of America;43.21;-77.63;9076
+567;Sacramento;United States of America;38.56;-121.42;11550
+568;Salt Lake City;United States of America;40.69;-111.89;10134
+569;San Antonio;United States of America;29.42;-98.52;16632
+570;San Diego;United States of America;32.76;-117.12;14561
+571;San Francisco-Oakland;United States of America;37.79;-122.38;11926
+572;San Jose;United States of America;37.3;-121.84;11926
+573;Seattle;United States of America;47.58;-122.31;6546
+574;St. Louis;United States of America;38.63;-90.34;11554
+575;Tampa-St. Petersburg;United States of America;27.99;-82.59;17191
+576;Tucson;United States of America;32.22;-110.92;15714
+577;Virginia Beach;United States of America;36.83;-76.08;12927
+578;Washington;United States of America;38.89;-76.95;11216
+579;Ouagadougou;Burkina Faso;12.48;-1.67;23444
+580;Montevideo;Uruguay;-34.92;-56.16;31561
+581;Tashkent;Uzbekistan;41.24;69.34;9988
+582;Barquisimeto;Venezuela (Bolivarian Republic of);10.06;-69.33;24106
+583;Caracas;Venezuela (Bolivarian Republic of);10.49;-66.89;24031
+584;Maracaibo;Venezuela (Bolivarian Republic of);10.64;-71.63;23907
+585;Maracay;Venezuela (Bolivarian Republic of);10.24;-67.59;24031
+586;Valencia;Venezuela (Bolivarian Republic of);10.17;-68;24031
+587;Al-Hudaydah;Yemen;14.79;42.94;22763
+588;Sanaa;Yemen;15.36;44.2;22605
+589;Ta'izz;Yemen;13.57;44.01;23030
+590;Lusaka;Zambia;-15.42;28.17;28960
+591;Gothenburg;Sweden;57.69025342;12.05004;3369
+600;Bilbao;Spain;43.25;-2.92;8801

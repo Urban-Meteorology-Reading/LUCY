@@ -1,0 +1,232 @@
+Country	GID	EID 
+Aruba	1	11
+Afghanistan	2	1
+Angola	3	6
+Anguilla	4	7
+Albania	5	2
+Andorra	6	5
+Netherland Antilles	7	148
+United Arab Emirates	8	219
+Argentina	9	9
+Armenia	10	10
+American Samoa	11	4
+Antigua and Barbuda	12	8
+Australia	13	12
+Austria	14	13
+Azerbaijan	15	14
+Burundi	16	33
+Belgium	17	20
+Benin	18	22
+Burkina Faso	19	32
+Bangladesh	20	17
+Bulgaria	21	31
+Bahrain	22	16
+Bahamas	23	15
+Bosnia-Herzegovina	24	26
+Belarus	25	19
+Belize	26	21
+Bermuda	27	23
+Bolivia	28	25
+Brazil	29	28
+Barbados	30	18
+Brunei Darussalam	31	30
+Bhutan	32	24
+Botswana	33	27
+Central African Republic	34	39
+Canada	35	36
+Switzerland	36	202
+Chile	37	41
+China	38	42
+Ivory Coast	39	49
+Cameroon	40	35
+Congo, Democratic Republic	41	45
+Congo	42	46
+Cook Islands	43	47
+Colombia	44	43
+Comoros	45	44
+Cape Verde	46	37
+Costa Rica	47	48
+Cuba	48	51
+Cayman Islands	49	38
+Cyprus	50	52
+Czech Republic	51	53
+Germany	52	76
+Djibouti	53	55
+Commonwealth of Dominica	54	56
+Denmark	55	54
+Dominican Republic	56	57
+Algeria	57	3
+Ecuador	58	59
+Egypt	59	60
+Eritrea	60	63
+Spain	61	194
+Estonia	62	64
+Ethiopia	63	65
+Finland	64	69
+Fiji	65	68
+Falkland Islands	66	67
+France	67	70
+Faeroe Islands	68	66
+Federated State of Micronesia	69	136
+Gabon	70	73
+United Kingdom	71	220
+Georgia	72	75
+Guernsey	73	85
+Ghana	74	77
+Gibraltar	75	78
+Guinea	76	86
+Guadeloupe	77	82
+Gambia	78	74
+Guinea-Bissau	79	87
+Equatorial Guinea	80	62
+Greece	81	79
+Grenada	82	81
+Greenland	83	80
+Guatemala	84	84
+French Guiana	85	71
+Guam	86	83
+Guyana	87	88
+Hong Kong	88	91
+Honduras	89	90
+Croatia	90	50
+Haiti	91	89
+Hungary	92	92
+Indonesia	93	95
+Isle of Man	94	99
+India	95	94
+Ireland	96	98
+Iran	97	96
+Iraq	98	97
+Iceland	99	93
+Israel	100	100
+Italy	101	101
+Jamaica	102	102
+Jersey	103	104
+Jordan	104	105
+Japan	105	103
+Kazakhstan	106	106
+Kenya	107	107
+Kyrgyz Republic	108	112
+Cambodia	109	34
+Kiribati	110	108
+Saint Kitts and Nevis	111	176
+Korea	112	110
+Kuwait	113	111
+Lao People's Democratic Republic	114	113
+Lebanon	115	115
+Liberia	116	117
+Libyan Arab Jamahiriya	117	118
+Saint Lucia	118	178
+Liechtenstein	119	119
+Sri Lanka	120	195
+Lesotho	121	116
+Lithuania	122	120
+Luxembourg	123	121
+Latvia	124	114
+Macao	125	122
+Morocco (includes Western Sahara)	126	141
+Monaco	127	138
+Republic of Moldova	128	137
+Madagascar	129	124
+Maldives	130	127
+Mexico	131	135
+Marshall Islands	132	130
+Macedonia	133	123
+Mali	134	128
+Malta	135	129
+Myanmar	136	143
+Mongolia	137	139
+Northern Mariana Islands	138	156
+Mozambique	139	142
+Mauritania	140	132
+Montserrat	141	140
+Martinique	142	131
+Mauritius	143	133
+Malawi	144	125
+Malaysia	145	126
+Mayotte	146	134
+Namibia	147	144
+New Caledonia	148	149
+Niger	149	152
+Norfolk Island	150	155
+Nigeria	151	153
+Nicaragua	152	151
+Niue	153	154
+Netherlands	154	147
+Norway	155	157
+Nepal	156	146
+Nauru	157	145
+New Zealand	158	150
+Oman	159	159
+Pakistan	160	160
+Panama	161	162
+Pitcairn	162	167
+Peru	163	165
+Philippines	164	166
+Palau	165	161
+Papua New Guinea	166	163
+Poland	167	168
+Puerto Rico	168	170
+Korea, Dem. People's Rep. of	169	109
+Portugal	170	169
+Paraguay	171	164
+Occupied Palestinian Territory	172	158
+French Polynesia	173	72
+Qatar	174	171
+Reunion	175	172
+Romania	176	173
+Russia	177	174
+Rwanda	178	175
+Saudi Arabia	179	183
+Serbia and Montenegro	180	185
+Sudan	181	197
+Senegal	182	184
+Singapore	183	188
+Saint Helena	184	177
+Svalbard	185	199
+Solomon Islands	186	191
+Sierra Leone	187	187
+El Salvador	188	61
+San Marino	189	181
+Somalia	190	192
+Saint Pierre and Miquelon	191	179
+Sao Tome and Principe	192	182
+Suriname	193	198
+Slovakia	194	189
+Slovenia	195	190
+Sweden	196	201
+Swaziland	197	200
+Seychelles	198	186
+Syrian Arab Republic	199	203
+Turks and Caicos Islands	200	215
+Chad	201	40
+Togo	202	208
+Thailand	203	207
+Tajikistan	204	205
+Tokelau	205	209
+Turkmenistan	206	214
+East Timor	207	58
+Tonga	208	210
+Trinidad and Tobago	209	211
+Tunisia	210	212
+Turkey	211	213
+Tuvalu	212	216
+Taiwan	213	204
+United Rep. of Tanzania	214	206
+Uganda	215	217
+Ukraine	216	218
+Uruguay	217	222
+United States of America	218	221
+Uzbekistan	219	223
+Saint Vincent	221	196
+Venezuela	222	225
+British Virgin Islands	223	29
+United States Virgin Islands	224	228
+Viet Nam	225	226
+Vanuatu	226	224
+Wallis and Futuna	227	227
+Western Samoa	228	180
+Yemen	229	229
+South Africa	230	193
+Zambia	231	230
+Zimbabwe	232	231
